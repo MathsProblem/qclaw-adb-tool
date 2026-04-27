@@ -1,0 +1,23 @@
+[tool.briefcase]
+project_name = "QClaw ADB Tool"
+bundle = "org.qclaw"
+version = "1.0.0"
+url = "https://github.com/MathsProblem/qclaw-adb-tool"
+license = {file = "LICENSE"}
+author = "QClaw"
+author_email = "qclaw@example.com"
+
+[tool.briefcase.app.qclaw_adb]
+formal_name = "QClaw ADB Tool"
+description = "Android ADB Management Tool"
+long_description = """A powerful ADB management tool for Android devices."""
+icon = "resources/icon"
+sources = ["src/qclaw_adb"]
+test_sources = ["tests"]
+
+[tool.briefcase.app.qclaw_adb.android]
+min_sdk = 21
+target_sdk = 33
+supported_architectures = ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"]
+
+# 创建空的LICENSE文件

@@ -1,0 +1,340 @@
+Date/Time:       2026-04-27 22:00:59 
+Command line:    C:\Users\24905\AppData\Local\Programs\Python\Python314\Scripts\briefcase create android
+
+OS Release:      Windows 11
+OS Version:      10.0.26200
+Architecture:    AMD64
+Platform:        Windows-11-10.0.26200-SP0
+
+Python exe:      C:\Users\24905\AppData\Local\Programs\Python\Python314\python.exe
+Python version:  3.14.2 (tags/v3.14.2:df79316, Dec  5 2025, 17:18:21) [MSC v.1944 64 bit (AMD64)]
+Virtual env:     False
+Conda env:       False
+
+Briefcase:       0.3.26
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+	ADB=C:\platform-tools\adb.exe
+	ALLUSERSPROFILE=C:\ProgramData
+	APPDATA=C:\Users\24905\AppData\Roaming
+	AUTH_GATEWAY_PORT=19000
+	BUILD_ENV=production
+	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_36132_BGEDETFYIYJJWFCB
+	COMMONPROGRAMFILES=C:\Program Files\Common Files
+	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+	COMMONPROGRAMW6432=C:\Program Files\Common Files
+	COMPUTERNAME=SYM-PC
+	COMSPEC=C:\WINDOWS\system32\cmd.exe
+	CPOLAR_HOME=C:\Program Files\cpolar\
+	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+	EFC_21644_1262719628=1
+	EFC_21644_1592913036=1
+	EFC_21644_2283032206=1
+	EFC_21644_2775293581=1
+	EFC_21644_344590478=1
+	EFC_21644_3789132940=1
+	ELECTRON_RUN_AS_NODE=1
+	EMULATOR_AVD_ROOT=D:\Program Files\MobileAppEngine\emui
+	EMULATOR_SDK_ROOT=C:\Program Files\MobileAppEngine\EmulatorSdk
+	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+	FPS_BROWSER_USER_PROFILE_STRING=Default
+	HMCLOUD=y000004760
+	HMCLOUD_RL=海马云电脑下载器-1.8.7-1hdl1yzVjO.exe
+	HOMEDRIVE=C:
+	HOMEPATH=\Users\24905
+	JAVA_HOME=D:\java\jdk-17
+	LEVEL_ZERO_V1_SDK_PATH=C:\Program Files\LevelZeroSDK\1.24.0\
+	LOCALAPPDATA=C:\Users\24905\AppData\Local
+	LOGONSERVER=\\SYM-PC
+	NODE_COMPILE_CACHE=C:\Users\24905\.qclaw\compile-cache
+	NODE_NO_WARNINGS=1
+	NUMBER_OF_PROCESSORS=16
+	ONEDRIVE=C:\Users\24905\OneDrive
+	OPENCLAW_CLI=1
+	OPENCLAW_CONFIG_PATH=C:\Users\24905\.qclaw\openclaw.json
+	OPENCLAW_DISABLE_BONJOUR=1
+	OPENCLAW_GATEWAY_PORT=28789
+	OPENCLAW_NIX_MODE=1
+	OPENCLAW_NO_RESPAWN=1
+	OPENCLAW_PATH_BOOTSTRAPPED=1
+	OPENCLAW_SHELL=exec
+	OPENCLAW_STATE_DIR=C:\Users\24905\.qclaw
+	OS=Windows_NT
+	PATH=E:\QClwa\QClaw\resources\openclaw\config\bin;E:\QClwa\QClaw\resources\vcruntime-dlls;D:\VM\bin\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\System32\HWAudioDriver;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;E:\Temp-0601\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;E:\Temp-0601\Nodejs\;C:\Users\24905\AppData\Local\Programs\Python\Python314\Scripts\;C:\Users\24905\AppData\Local\Programs\Python\Python314\;C:\Users\24905\AppData\Local\Microsoft\WindowsApps;C:\Program Files\cpolar\;C:\Users\24905\AppData\Local\Programs\Ollama;C:\platform-tools\;C:\Users\24905\AppData\Roaming\npm
+	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+	PROCESSOR_ARCHITECTURE=AMD64
+	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+	PROCESSOR_LEVEL=6
+	PROCESSOR_REVISION=ba02
+	PROGRAMDATA=C:\ProgramData
+	PROGRAMFILES=C:\Program Files
+	PROGRAMFILES(X86)=C:\Program Files (x86)
+	PROGRAMW6432=C:\Program Files
+	PSMODULEPATH=C:\Users\24905\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	PUBLIC=C:\Users\Public
+	QCLAW_APP_STORE_PATH=C:\Users\24905\AppData\Roaming\QClaw\app-store.json
+	QCLAW_CLI_NODE_BINARY=E:\QClwa\QClaw\QClaw.exe
+	QCLAW_CLI_OPENCLAW_MJS=E:\QClwa\QClaw\resources\openclaw\node_modules\openclaw\openclaw.mjs
+	QCLAW_DEVICE_ID=7f833e228709e6d73998f9e91afebcf3c4299a984afccfcb470e84cab003bcbd
+	QCLAW_LLM_API_KEY=********************
+	QCLAW_LLM_BASE_URL=http://127.0.0.1:19000/proxy/llm
+	QCLAW_PLUGIN_CONFIG_PATH=C:\Users\24905\AppData\Roaming\QClaw\qclaw-plugin-config.json
+	QCLAW_TOOL_LOWPRIV=1
+	QCLAW_TOOL_SANDBOX_LEVEL=standard
+	QCLAW_TOOL_WRAPPER_PATH=E:\QClwa\QClaw\resources\security\lowpriv-launcher.exe
+	QCLAW_USER_GUID=none
+	QCLAW_USER_ID=none
+	QCLAW_WECHAT_WS_URL=wss://mmgrcalltoken.3g.qq.com/agentwss
+	SESSIONNAME=Console
+	SYSTEMDRIVE=C:
+	SYSTEMROOT=C:\WINDOWS
+	TEMP=C:\Users\24905\AppData\Local\Temp
+	TMP=C:\Users\24905\AppData\Local\Temp
+	USERDOMAIN=SYM-PC
+	USERDOMAIN_ROAMINGPROFILE=SYM-PC
+	USERNAME=24905
+	USERPROFILE=C:\Users\24905
+	WINDIR=C:\WINDOWS
+	ZES_ENABLE_SYSMAN=1
+
+pyproject.toml:
+[tool.briefcase]
+project_name = "QClaw ADB Tool"
+bundle = "org.qclaw"
+version = "1.0.0"
+url = "https://github.com/MathsProblem/qclaw-adb-tool"
+license = "MIT"
+author = "QClaw"
+author_email = "qclaw@example.com"
+
+[tool.briefcase.app.qclaw_adb]
+formal_name = "QClaw ADB Tool"
+description = "Android ADB Management Tool"
+long_description = """A powerful ADB management tool for Android devices.
+Features: device info, app management, screenshot, shell commands."""
+icon = "resources/icon"
+sources = ["src/qclaw_adb"]
+test_sources = ["tests"]
+
+# Android配置
+[tool.briefcase.app.qclaw_adb.android]
+build_gradle_dependencies = [
+    "androidx.appcompat:appcompat:1.6.1",
+    "androidx.core:core:1.12.0",
+]
+android_gradle_dependencies = [
+    "androidx.appcompat:appcompat:1.6.1",
+]
+permission = [
+    "android.permission.INTERNET",
+    "android.permission.ACCESS_NETWORK_STATE",
+    "android.permission.ACCESS_WIFI_STATE",
+    "android.permission.READ_EXTERNAL_STORAGE",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+]
+
+# 支持Android 5.0+ (API 21)
+min_sdk = 21
+target_sdk = 33
+
+# 支持所有架构
+supported_architectures = ["arm64-v8a", "armeabi-v7a", "x86", "x86_64"]
+
+Briefcase Log:
+[22:00:59]                                                                                                                                                             config.py:792
+           *************************************************************************                                                                                   config.py:792
+           ** WARNING: License Definition for the Project is Deprecated           **                                                                                   config.py:792
+           *************************************************************************                                                                                   config.py:792
+                                                                                                                                                                       config.py:792
+               Briefcase now uses PEP 621 format for license definitions.                                                                                              config.py:792
+                                                                                                                                                                       config.py:792
+               Previously, the name of the license was assigned to the 'license'                                                                                       config.py:792
+               field in pyproject.toml. For PEP 621, the name of the license is                                                                                        config.py:792
+               assigned to 'license.text' or the name of the file containing the                                                                                       config.py:792
+               license is assigned to 'license.file'.                                                                                                                  config.py:792
+                                                                                                                                                                       config.py:792
+               The current configuration for the Project has a 'license' field                                                                                         config.py:792
+               that is specified as a string:                                                                                                                          config.py:792
+                                                                                                                                                                       config.py:792
+                   license = "MIT"                                                                                                                                     config.py:792
+                                                                                                                                                                       config.py:792
+               To use the PEP 621 format (and to remove this warning), specify that                                                                                    config.py:792
+               the LICENSE file contains the license for the Project:                                                                                                  config.py:792
+                                                                                                                                                                       config.py:792
+                   license.file = "LICENSE"                                                                                                                            config.py:792
+                                                                                                                                                                       config.py:792
+           *************************************************************************                                                                                   config.py:792
+           Saving log... started                                                                                                                                      console.py:443
+
+Main thread traceback:
+┌─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────┐
+│ C:\Users\24905\AppData\Local\Programs\Python\Python314\Lib\site-packages\briefcase\__main__.py:23 in main                                                                        │
+│                                                                                                                                                                                  │
+│   20 │   │   Command, extra_cmdline = parse_cmdline(sys.argv[1:], console=console)                                                                                               │
+│   21 │   │   command = Command(console=console)                                                                                                                                  │
+│   22 │   │   options, overrides = command.parse_options(extra=extra_cmdline)                                                                                                     │
+│ > 23 │   │   command.parse_config(                                                                                                                                               │
+│   24 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   25 │   │   │   overrides=overrides,                                                                                                                                            │
+│   26 │   │   )                                                                                                                                                                   │
+│                                                                                                                                                                                  │
+│ ┌─────────────────────────────────────────────── locals ────────────────────────────────────────────────┐                                                                        │
+│ │       command = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000029A032EAF90> │                                                                        │
+│ │       console = <briefcase.console.Console object at 0x0000029A032E96A0>                              │                                                                        │
+│ │ extra_cmdline = []                                                                                    │                                                                        │
+│ │       options = {}                                                                                    │                                                                        │
+│ │     overrides = {}                                                                                    │                                                                        │
+│ │        result = 0                                                                                     │                                                                        │
+│ └───────────────────────────────────────────────────────────────────────────────────────────────────────┘                                                                        │
+│                                                                                                                                                                                  │
+│ C:\Users\24905\AppData\Local\Programs\Python\Python314\Lib\site-packages\briefcase\commands\base.py:1075 in parse_config                                                         │
+│                                                                                                                                                                                  │
+│   1072 │   │   │   │   # Parse the content of the pyproject.toml file, extracting                                                                                                │
+│   1073 │   │   │   │   # any platform and output format configuration for each app,                                                                                              │
+│   1074 │   │   │   │   # creating a single set of configuration options.                                                                                                         │
+│ > 1075 │   │   │   │   global_config, app_configs = parse_config(                                                                                                                │
+│   1076 │   │   │   │   │   config_file,                                                                                                                                          │
+│   1077 │   │   │   │   │   platform=self.platform,                                                                                                                               │
+│   1078 │   │   │   │   │   output_format=self.output_format,                                                                                                                     │
+│                                                                                                                                                                                  │
+│ ┌─────────────────────────────────────────────── locals ───────────────────────────────────────────────┐                                                                         │
+│ │ config_file = <_io.BufferedReader name='C:\\Users\\24905\\Desktop\\qclaw_briefcase\\pyproject.toml'> │                                                                         │
+│ │    filename = WindowsPath('C:/Users/24905/Desktop/qclaw_briefcase/pyproject.toml')                   │                                                                         │
+│ │   overrides = {}                                                                                     │                                                                         │
+│ │        self = <briefcase.platforms.android.gradle.GradleCreateCommand object at 0x0000029A032EAF90>  │                                                                         │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────────────┘                                                                         │
+│                                                                                                                                                                                  │
+│ C:\Users\24905\AppData\Local\Programs\Python\Python314\Lib\site-packages\briefcase\config.py:838 in parse_config                                                                 │
+│                                                                                                                                                                                  │
+│   835 │   │   │   │   │   # If the platform matches the requested format, preserve                                                                                               │
+│   836 │   │   │   │   │   # it for later use.                                                                                                                                    │
+│   837 │   │   │   │   │   platform_data = platform_block                                                                                                                         │
+│ > 838 │   │   │   │   │   merge_config(platform_data, platform_data)                                                                                                             │
+│   839 │   │   │   │   │                                                                                                                                                          │
+│   840 │   │   │   │   │   # The platform configuration will contain a section                                                                                                    │
+│   841 │   │   │   │   │   # for each configured output format. Iterate over all                                                                                                  │
+│                                                                                                                                                                                  │
+│ ┌─────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────┐                                         │
+│ │       all_apps = {                                                                                                                   │                                         │
+│ │                  │   'qclaw_adb': {                                                                                                  │                                         │
+│ │                  │   │   'formal_name': 'QClaw ADB Tool',                                                                            │                                         │
+│ │                  │   │   'description': 'Android ADB Management Tool',                                                               │                                         │
+│ │                  │   │   'long_description': 'A powerful ADB management tool for Android devices.\nFeatures: device info, app m'+38, │                                         │
+│ │                  │   │   'icon': 'resources/icon',                                                                                   │                                         │
+│ │                  │   │   'sources': ['src/qclaw_adb'],                                                                               │                                         │
+│ │                  │   │   'test_sources': ['tests']                                                                                   │                                         │
+│ │                  │   }                                                                                                               │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │    all_formats = ['gradle']                                                                                                          │                                         │
+│ │  all_platforms = ['android', 'iOS', 'linux', 'macOS', 'web', 'windows']                                                              │                                         │
+│ │    app_configs = {}                                                                                                                  │                                         │
+│ │       app_data = {                                                                                                                   │                                         │
+│ │                  │   'formal_name': 'QClaw ADB Tool',                                                                                │                                         │
+│ │                  │   'description': 'Android ADB Management Tool',                                                                   │                                         │
+│ │                  │   'long_description': 'A powerful ADB management tool for Android devices.\nFeatures: device info, app m'+38,     │                                         │
+│ │                  │   'icon': 'resources/icon',                                                                                       │                                         │
+│ │                  │   'sources': ['src/qclaw_adb'],                                                                                   │                                         │
+│ │                  │   'test_sources': ['tests']                                                                                       │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │       app_name = 'qclaw_adb'                                                                                                         │                                         │
+│ │         config = {                                                                                                                   │                                         │
+│ │                  │   'formal_name': 'QClaw ADB Tool',                                                                                │                                         │
+│ │                  │   'description': 'Android ADB Management Tool',                                                                   │                                         │
+│ │                  │   'long_description': 'A powerful ADB management tool for Android devices.\nFeatures: device info, app m'+38,     │                                         │
+│ │                  │   'icon': 'resources/icon',                                                                                       │                                         │
+│ │                  │   'sources': ['src/qclaw_adb'],                                                                                   │                                         │
+│ │                  │   'test_sources': ['tests']                                                                                       │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │    config_file = <_io.BufferedReader name='C:\\Users\\24905\\Desktop\\qclaw_briefcase\\pyproject.toml'>                              │                                         │
+│ │        console = <briefcase.console.Console object at 0x0000029A032E96A0>                                                            │                                         │
+│ │  global_config = {                                                                                                                   │                                         │
+│ │                  │   'project_name': 'QClaw ADB Tool',                                                                               │                                         │
+│ │                  │   'bundle': 'org.qclaw',                                                                                          │                                         │
+│ │                  │   'version': '1.0.0',                                                                                             │                                         │
+│ │                  │   'url': 'https://github.com/MathsProblem/qclaw-adb-tool',                                                        │                                         │
+│ │                  │   'license': {'file': 'LICENSE'},                                                                                 │                                         │
+│ │                  │   'author': 'QClaw',                                                                                              │                                         │
+│ │                  │   'author_email': 'qclaw@example.com'                                                                             │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │           name = 'qclaw_adb'                                                                                                         │                                         │
+│ │  output_format = 'gradle'                                                                                                            │                                         │
+│ │              p = 'android'                                                                                                           │                                         │
+│ │       platform = 'android'                                                                                                           │                                         │
+│ │ platform_block = {                                                                                                                   │                                         │
+│ │                  │   'build_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1', 'androidx.core:core:1.12.0'],               │                                         │
+│ │                  │   'android_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1'],                                          │                                         │
+│ │                  │   'min_sdk': 21,                                                                                                  │                                         │
+│ │                  │   'target_sdk': 33,                                                                                               │                                         │
+│ │                  │   'supported_architectures': ['arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64'],                                       │                                         │
+│ │                  │   'permission': {}                                                                                                │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │  platform_data = {                                                                                                                   │                                         │
+│ │                  │   'build_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1', 'androidx.core:core:1.12.0'],               │                                         │
+│ │                  │   'android_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1'],                                          │                                         │
+│ │                  │   'min_sdk': 21,                                                                                                  │                                         │
+│ │                  │   'target_sdk': 33,                                                                                               │                                         │
+│ │                  │   'supported_architectures': ['arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64'],                                       │                                         │
+│ │                  │   'permission': {}                                                                                                │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │      pyproject = {                                                                                                                   │                                         │
+│ │                  │   'tool': {                                                                                                       │                                         │
+│ │                  │   │   'briefcase': {                                                                                              │                                         │
+│ │                  │   │   │   'project_name': 'QClaw ADB Tool',                                                                       │                                         │
+│ │                  │   │   │   'bundle': 'org.qclaw',                                                                                  │                                         │
+│ │                  │   │   │   'version': '1.0.0',                                                                                     │                                         │
+│ │                  │   │   │   'url': 'https://github.com/MathsProblem/qclaw-adb-tool',                                                │                                         │
+│ │                  │   │   │   'license': {'file': 'LICENSE'},                                                                         │                                         │
+│ │                  │   │   │   'author': 'QClaw',                                                                                      │                                         │
+│ │                  │   │   │   'author_email': 'qclaw@example.com'                                                                     │                                         │
+│ │                  │   │   }                                                                                                           │                                         │
+│ │                  │   }                                                                                                               │                                         │
+│ │                  }                                                                                                                   │                                         │
+│ │   section_name = 'the Project'                                                                                                       │                                         │
+│ └──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘                                         │
+│                                                                                                                                                                                  │
+│ C:\Users\24905\AppData\Local\Programs\Python\Python314\Lib\site-packages\briefcase\config.py:673 in merge_config                                                                 │
+│                                                                                                                                                                                  │
+│   670 │   │   value = data.pop(option, {})                                                                                                                                       │
+│   671 │   │                                                                                                                                                                      │
+│   672 │   │   if value:                                                                                                                                                          │
+│ > 673 │   │   │   config.setdefault(option, {}).update(value)                                                                                                                    │
+│   674 │                                                                                                                                                                          │
+│   675 │   config.update(data)                                                                                                                                                    │
+│   676                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ┌──────────────────────────────────────────────────── locals ────────────────────────────────────────────────────┐                                                               │
+│ │ config = {                                                                                                     │                                                               │
+│ │          │   'build_gradle_dependencies': [                                                                    │                                                               │
+│ │          │   │   'androidx.appcompat:appcompat:1.6.1',                                                         │                                                               │
+│ │          │   │   'androidx.core:core:1.12.0'                                                                   │                                                               │
+│ │          │   ],                                                                                                │                                                               │
+│ │          │   'android_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1'],                            │                                                               │
+│ │          │   'min_sdk': 21,                                                                                    │                                                               │
+│ │          │   'target_sdk': 33,                                                                                 │                                                               │
+│ │          │   'supported_architectures': ['arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64'],                         │                                                               │
+│ │          │   'permission': {}                                                                                  │                                                               │
+│ │          }                                                                                                     │                                                               │
+│ │   data = {                                                                                                     │                                                               │
+│ │          │   'build_gradle_dependencies': [                                                                    │                                                               │
+│ │          │   │   'androidx.appcompat:appcompat:1.6.1',                                                         │                                                               │
+│ │          │   │   'androidx.core:core:1.12.0'                                                                   │                                                               │
+│ │          │   ],                                                                                                │                                                               │
+│ │          │   'android_gradle_dependencies': ['androidx.appcompat:appcompat:1.6.1'],                            │                                                               │
+│ │          │   'min_sdk': 21,                                                                                    │                                                               │
+│ │          │   'target_sdk': 33,                                                                                 │                                                               │
+│ │          │   'supported_architectures': ['arm64-v8a', 'armeabi-v7a', 'x86', 'x86_64'],                         │                                                               │
+│ │          │   'permission': {}                                                                                  │                                                               │
+│ │          }                                                                                                     │                                                               │
+│ │ option = 'permission'                                                                                          │                                                               │
+│ │  value = [                                                                                                     │                                                               │
+│ │          │   'android.permission.INTERNET',                                                                    │                                                               │
+│ │          │   'android.permission.ACCESS_NETWORK_STATE',                                                        │                                                               │
+│ │          │   'android.permission.ACCESS_WIFI_STATE',                                                           │                                                               │
+│ │          │   'android.permission.READ_EXTERNAL_STORAGE',                                                       │                                                               │
+│ │          │   'android.permission.WRITE_EXTERNAL_STORAGE'                                                       │                                                               │
+│ │          ]                                                                                                     │                                                               │
+│ └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘                                                               │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+ValueError: dictionary update sequence element #0 has length 27; 2 is required

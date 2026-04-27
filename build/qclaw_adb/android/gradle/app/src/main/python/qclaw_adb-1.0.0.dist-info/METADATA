@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.26
+Name: qclaw_adb
+Formal-Name: QClaw ADB Tool
+App-ID: org.qclaw.qclaw-adb
+Version: 1.0.0
+Home-page: https://github.com/MathsProblem/qclaw-adb-tool
+Download-URL: https://github.com/MathsProblem/qclaw-adb-tool
+Author: QClaw
+Author-email: qclaw@example.com
+Summary: Android ADB Management Tool

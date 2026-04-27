@@ -1,0 +1,4 @@
+<resources>
+    <string name="formal_name">"QClaw ADB Tool"</string>
+    <string name="app_name">qclaw_adb</string>
+</resources>
