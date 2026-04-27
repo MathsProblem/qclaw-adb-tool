@@ -1,0 +1,53 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [ master, main ]
+  pull_request:
+    branches: [ master, main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Briefcase
+        run: |
+          python -m pip install --upgrade pip
+          pip install briefcase
+
+      - name: Create Android project
+        run: briefcase create android
+        continue-on-error: true
+
+      - name: Build APK
+        run: briefcase build android
+        continue-on-error: true
+
+      - name: Package APK
+        run: briefcase package android
+        continue-on-error: true
+
+      - name: Find and list APK files
+        run: |
+          echo "=== Searching for APK files ==="
+          find . -name "*.apk" -type f 2>/dev/null || echo "No APK found"
+          echo "=== Listing build outputs ==="
+          ls -la build/qclaw_adb/android/gradle/app/build/outputs/apk/debug/ 2>/dev/null || echo "Debug APK dir not found"
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: qclaw-adb-apk
+          path: |
+            build/qclaw_adb/android/gradle/app/build/outputs/apk/debug/*.apk
+            build/qclaw_adb/android/gradle/app/build/outputs/apk/release/*.apk
+          retention-days: 30
+          if-no-files-found: warn
